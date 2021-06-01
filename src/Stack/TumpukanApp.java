@@ -23,5 +23,8 @@ public class TumpukanApp {
     System.out.println(" ");
     long nilai1=tumpukan.peek();
     System.out.println("nilai top = " + nilai1);
+    
+    
+    System.out.println("Fajriya Hasna Putri");
 }
 }
